@@ -298,7 +298,7 @@ section {
     background: var(--bg-white);
     padding: 40px;
     border-radius: 12px;
-    max-width: 500px;
+    max-width: 700px;
     margin: 0 auto;
     color: var(--text-dark);
 }
@@ -313,7 +313,7 @@ section {
     border: 1px solid #ddd;
     border-radius: 6px;
     font-family: var(--font-main);
-    font-size: 1rem;
+    font-size: 1.05rem;
 }
 
 /* CURRICULUM GRID */
